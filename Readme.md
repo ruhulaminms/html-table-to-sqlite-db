@@ -79,7 +79,7 @@ A batch file that automates the execution of the Python script. This makes it ea
             </tr>
         </thead>
         <tbody>
-            <!-- 10 rows -->
+            <!-- 4 rows -->
             <tr>
                 <td>Row 1, Col 1</td>
                 <td>Row 1, Col 2</td>
